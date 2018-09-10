@@ -1,0 +1,2 @@
+# College-Magazinee
+Android Project
